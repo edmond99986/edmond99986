@@ -18,8 +18,6 @@
   - [Secret Knock Knock (arduino Uno)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
   - [Sleeping quality checker (arduino Uno)]()
  
-- <b>Game development</b>
-  - [First-personal-shooting game(JurassicKiller)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 
 [<img align="left" alt="edmond99986 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
