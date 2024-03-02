@@ -24,7 +24,7 @@
 [<img align="left" alt="edmond99986 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
+[youtube]: https://www.youtube.com/channel/UC-gcozuYWwkFv-i7D8HJAtg
+[instagram]: https://www.instagram.com/edmond99986/
 
 
