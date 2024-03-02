@@ -4,9 +4,9 @@
 
 - <b>Data Structures and Algorithms Practice </b>
   - [Mini Snake Game in C++](https://github.com/edmond99986/MiniSnakeGame)
-  - [Breadth-first search algorithm pratice]()
+  - [Breadth-first search algorithm pratice](https://github.com/edmond99986/Breadth-first-search-algorithm-pratice)
 - <b>Web development Project (HTML,CSS,JS & ShopifyLiquid)</b>
-  - [Disneyland ticket booking system webpages practice](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b>
+  - [Disneyland ticket booking system webpages practice](https://github.com/edmond99986/Disneyland-ticket-booking-system-webpages-practice) <b>
   - [Shopify Shop Theme development(GachaGachaJp)]()
 - <b>Ux&UI development</b>
   - [Mobile App prototype development (KitchenPal)](https://github.com/joshmadakor1/Sentinel-Lab)
