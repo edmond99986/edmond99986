@@ -9,13 +9,13 @@
   - [Disneyland ticket booking system webpages practice](https://github.com/edmond99986/Disneyland-ticket-booking-system-webpages-practice) <b>
   - [Shopify Shop Theme development(GachaGachaJp)](https://github.com/edmond99986/Shopify-Shop-Theme-development-GachaGachaJp-)
 - <b>Ux&UI development</b>
-  - [Mobile App prototype development (KitchenPal)](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Mobile App prototype development (KitchenPal)](https://github.com/edmond99986/Mobile-App-prototype-development-KitchenPal-)
  
 - <b>Python </b>
-  - [Web Scraping project (Selenium & BeautifulSoup4)](https://github.com/joshmadakor1/EncrypterPOC)
+  - [Web Scraping project (Selenium & BeautifulSoup4)](https://github.com/edmond99986/Shopify-Shop-Theme-development-GachaGachaJp-)
   
 - <b>Arduino and microcontroller</b>
-  - [Secret Knock Knock (arduino Uno)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Secret Knock Knock (arduino Uno)]()
   - [Sleeping quality checker (arduino Uno)]()
  
 
