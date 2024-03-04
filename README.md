@@ -15,7 +15,6 @@
   - [Web Scraping project (Selenium & BeautifulSoup4)](https://github.com/edmond99986/Shopify-Shop-Theme-development-GachaGachaJp-/tree/main/WebScraper)
   
 - <b>Arduino and microcontroller</b>
-  - [Secret Knock Knock (arduino Uno)]()
   - [Sleeping quality checker (arduino Uno)](https://github.com/edmond99986/Sleeping-quality-checker-arduino-Uno-)
 
 - <b>Installation Artwork<b/>
